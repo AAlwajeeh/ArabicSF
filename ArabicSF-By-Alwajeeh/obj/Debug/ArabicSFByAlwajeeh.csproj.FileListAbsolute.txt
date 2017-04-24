@@ -1,0 +1,11 @@
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\bin\Debug\ArabicSF.exe.config
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ArabicSFByAlwajeeh.csproj.ResolveComReference.cache
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\bin\Debug\ArabicSF.exe
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\bin\Debug\ArabicSF.pdb
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ArabicSF.MainForm.resources
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ArabicSF.Properties.Resources.resources
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ArabicSF.exe
+C:\Users\AW\Desktop\ArabicSF\ArabicSF-By-Alwajeeh\obj\Debug\ArabicSF.pdb
