@@ -1,4 +1,4 @@
-ArabicSF
+## ArabicSF
  --
 ArabicSF: is a C# application that is consists of a novel Arabic Stylometric Features Tool and other preproccessing tools which are inspired by other works such as Khoja stemmer, Light Stemmer, etc.
 
@@ -7,9 +7,9 @@ ArabicSF: is a C# application that is consists of a novel Arabic Stylometric Fea
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 If you find this code useful, please cite the following paper:
------------------------------------------------
-- Mahmoud Al-Ayyoub, Ahmed Alwajeeh and Ismail Hmeidi. An extensive study of authorship authentication of Arabic articles. International Journal of Web Information Systems (IJWIS) 13(1), 2017. doi: 10.1108/IJWIS-03-2016-0011
------------------------------------------------
+---------------------
+- [Mahmoud Al-Ayyoub, Ahmed Alwajeeh and Ismail Hmeidi. An extensive study of authorship authentication of Arabic articles. International Journal of Web Information Systems (IJWIS) 13(1), 2017. doi: 10.1108/IJWIS-03-2016-0011](http:/www.emeraldinsight.com/doi/pdfplus/10.1108/IJWIS-03-2016-0011)
+----------------------------
 
 Also, you might be interested in the following relevant papers:
 ---
